@@ -20,8 +20,8 @@ Storybook (component documentation)
 
 🚀 Setup & Run Locally
 # Clone repository
-git clone https://github.com/your-username/project-name.git
-cd project-name
+(https://github.com/ponnapallimahesh7/Uzence-Design-Studio-Project.git)
+cd Uzence-Design-Studio-Project
 
 # Install dependencies
 npm install
