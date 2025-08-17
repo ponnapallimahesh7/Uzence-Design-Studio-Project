@@ -18,24 +18,8 @@ Storybook (component documentation)
 Jest/React Testing Library (basic tests)
 
 📂 Folder Structure
-📦 project-root
-├── src
-│   ├── components
-│   │   ├── InputField
-│   │   │   ├── InputField.tsx
-│   │   │   ├── InputField.stories.tsx
-│   │   │   ├── InputField.test.tsx
-│   │   │   └── index.ts
-│   │   ├── DataTable
-│   │   │   ├── DataTable.tsx
-│   │   │   ├── DataTable.stories.tsx
-│   │   │   ├── DataTable.test.tsx
-│   │   │   └── index.ts
-│   └── utils (optional helpers)
-├── .storybook
-├── package.json
-├── README.md
-└── tsconfig.json
+<img width="751" height="759" alt="image" src="https://github.com/user-attachments/assets/7ff1cca5-b80c-4f36-b57f-349ed418191b" />
+
 
 🚀 Setup & Run Locally
 # Clone repository
