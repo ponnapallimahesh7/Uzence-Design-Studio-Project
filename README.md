@@ -59,7 +59,7 @@ Row selection (single/multiple)
 
 Loading & empty states
 
-Approach 
+<h1>Approach I have Used:</h1> 
 
 I first went through the requirements and created TypeScript types to make the components safe and predictable.
 
