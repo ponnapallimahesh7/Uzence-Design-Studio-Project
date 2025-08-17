@@ -20,7 +20,7 @@ Storybook (component documentation)
 
 🚀 Setup & Run Locally
 # Clone repository
-(https://github.com/ponnapallimahesh7/Uzence-Design-Studio-Project.git)
+(https://github.com/ponnapallimahesh7/Uzence-Design-Studio-Project.git)<br/>
 cd Uzence-Design-Studio-Project
 
 # Install dependencies
