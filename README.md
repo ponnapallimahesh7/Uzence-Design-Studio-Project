@@ -58,3 +58,25 @@ Column sorting (sortable flag)
 Row selection (single/multiple)
 
 Loading & empty states
+
+Approach 
+
+I first went through the requirements and created TypeScript types to make the components safe and predictable.
+
+I organized the project by keeping each component in its own folder for better structure and scalability.
+
+I built the InputField with flexible props to support different sizes, styles, and states (disabled, error, loading).
+
+I added extra features like a clear button and password toggle to improve user experience.
+
+I made sure the components are accessible by using proper HTML tags .
+
+I developed the DataTable to support configurable columns, sorting, row selection, and loading/empty states.
+
+I styled everything with TailwindCSS for a clean look, responsive design, and light/dark theme support.
+
+I documented all states and variations in Storybook so they’re easy to view and test.
+
+I wrote some basic tests with Jest and React Testing Library to check functionality and interactions.
+
+Finally, I deployed Storybook on Vercel and added setup instructions in the README for easy usage.
