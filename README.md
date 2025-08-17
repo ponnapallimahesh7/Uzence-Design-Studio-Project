@@ -80,3 +80,41 @@ I documented all states and variations in Storybook so they’re easy to view an
 I wrote some basic tests with Jest and React Testing Library to check functionality and interactions.
 
 Finally, I deployed Storybook on Vercel and added setup instructions in the README for easy usage.
+
+
+<h1>Output Screenshots:</h1>
+##InputField:-
+-- Default state --
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a9d72f13-548a-4b28-9438-ecd05e8499f7" />
+
+-- Error state and invalid=True --
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93da0efd-f71d-43a4-ac25-ddf65b95471c" />
+
+-- Disabled state --
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/16cdd821-f545-454b-a4b1-db300cb56d1f" />
+
+-- clear Button --
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c53ca092-60ef-4212-8cde-8f6177ac504c" />
+
+-- input type = password --
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64928857-6e42-4631-b4c4-42c3a04f43c9" />
+
+
+##DataField
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0616193-8bd8-4d06-83e4-a2a875448719" />
+
+You can see more outputs in the project where i have given live link below. please visit
+
+<h1>🔗 Live Links</h1> 
+
+GitHub Repo: https://github.com/ponnapallimahesh7/Uzence-Design-Studio-Project
+
+Storybook Preview: https://uzence-design-studio-project-vpo3.vercel.app/
+
+
+
+
+
+
+
+
