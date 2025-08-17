@@ -11,13 +11,10 @@ DataTable – a data table with sorting, row selection, loading, and empty state
 
 React + TypeScript
 
-TailwindCSS (styling)
-
 Storybook (component documentation)
 
-Jest/React Testing Library (basic tests)
-
 📂 Folder Structure
+
 <img width="751" height="759" alt="image" src="https://github.com/user-attachments/assets/7ff1cca5-b80c-4f36-b57f-349ed418191b" />
 
 
